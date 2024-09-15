@@ -1,3 +1,4 @@
 a = input('입력: ')
 b = input('입력: ')
-print(b "\n" a)
+print(b)
+print(a)
