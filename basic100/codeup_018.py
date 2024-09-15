@@ -1,2 +1,2 @@
-a,b=input('입력: ')
+a,b=input('입력: ').split(':')
 print(a,b,sep=':')
